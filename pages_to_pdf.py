@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Convert a single .pages file to PDF using Apple Pages via AppleScript."""
 
 from __future__ import annotations
