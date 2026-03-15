@@ -14,4 +14,4 @@ EN esperant que cela vous plaise
 
 python3 pages_to_pdf.py /path/to/file.pages
 ou 
-python3 pages_to_pdf.py "~/Desktop/Projet de recherche.pages"
+python3 pages_to_pdf.py "~/Desktop/file.pages"
