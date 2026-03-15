@@ -15,3 +15,6 @@ EN esperant que cela vous plaise
 python3 pages_to_pdf.py /path/to/file.pages
 ou 
 python3 pages_to_pdf.py "~/Desktop/file.pages"
+ou une troisieme solution : 
+python3 pages_to_pdf.py  puis glissez le fichier .pages dans le terminal 
+
