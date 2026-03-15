@@ -1,6 +1,8 @@
 # pages-to-pdf
 
 Petit script Python pour convertir un fichier `.pages` en `.pdf` sur macOS en utilisant Apple Pages.
+Pour vous evitez de payer apres 3 conversion
+EN esperant que cela vous plaise 
 
 ## Prérequis
 
